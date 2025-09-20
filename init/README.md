@@ -37,8 +37,7 @@
 ### Зображення 
 ![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
-
-![GitHub Logo](C:\Users\maksi\Documents\my_progect\GitHub-Logo-ee398b662d42.png)
+![GitHub Logo](https://miro.medium.com/v2/1*JLYlSLSK8-AZo8gt9UdYqA.jpeg)
 
 
 
